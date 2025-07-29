@@ -45,7 +45,7 @@
     },
     {
       "group": "App Distribution",
-      "icon": "/assets/docs/app-distribution/app-distribution.png",
+      "icon": "//static.invertase.io/assets/firebase/app-distribution.png",
       "pages": [
         { "title": "Usage", "href": "/app-distribution/usage" }
       ]
